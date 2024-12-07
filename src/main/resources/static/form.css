@@ -1,0 +1,25 @@
+.error-message {
+    color: red;
+    font-size: 0.875em;
+    margin-top: 0.25rem;
+}
+
+.error-input {
+    border-color: red;
+    outline: none;
+}
+
+textarea {
+    resize: none;
+}
+
+.btn-outline-secondary {
+    border: 2px solid #6c757d;
+    color: #6c757d;
+    font-weight: bold;
+}
+
+.btn-outline-secondary:hover {
+    background-color: #6c757d;
+    color: white;
+}
